@@ -1,4 +1,4 @@
-# Simply Books (https://www.loom.com/share/11af9a81ae8a4b84bc4f0c963a16884e?sid=dbbf034f-f81b-4070-9504-ed1cd4517db2)
+# Simply Books 
 
 With this app, users are able to view and change their personal book collections and authors. As this is user specific, book and author collections will differ. Any information added, created, or removed will only be seen by the user logged in. 
 - [View App](https://simply-books-jw.netlify.app/)
@@ -13,6 +13,9 @@ With this app, users are able to view and change their personal book collections
 
 ## App Preview
 <img width="996" alt="Screenshot 2025-01-15 at 1 09 09 AM" src="https://github.com/user-attachments/assets/fbacebe2-ad86-4dba-b404-1412639c3f3b" />
+
+#Loom
+((https://www.loom.com/share/11af9a81ae8a4b84bc4f0c963a16884e?sid=dbbf034f-f81b-4070-9504-ed1cd4517db2))
 
 ### Contributors
 - Jaylen Webb
