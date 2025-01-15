@@ -1,7 +1,7 @@
 # Simply Books 
 
 With this app, users are able to view and change their personal book collections and authors. As this is user specific, book and author collections will differ. Any information added, created, or removed will only be seen by the user logged in. 
-- [View App](https://simply-books-jw.netlify.app/)
+[View App](https://simply-books-jw.netlify.app/)
   
 ## App Feautures
 - Users can add books and authors to existing collection
@@ -16,6 +16,10 @@ With this app, users are able to view and change their personal book collections
 
 ## App Walkthrough
 https://www.loom.com/share/11af9a81ae8a4b84bc4f0c963a16884e?sid=b8005b2c-76db-4b8e-aace-f7794a3d3f84
+
+## Relevant Links
+[Check out the deployed site](simply-books-jw.netlify.app)
+[Project Board](https://github.com/users/jaylenxr/projects/2)
 
 ### Contributors
 - Jaylen Webb
