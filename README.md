@@ -11,6 +11,8 @@ With this app, users are able to view and change their personal book collections
 - User has the ability to favorite an author they most prefer.
 - User is able to note price of books or mark them on sale for future purchase.
 
+## App Preview
+<img width="996" alt="Screenshot 2025-01-15 at 1 09 09 AM" src="https://github.com/user-attachments/assets/fbacebe2-ad86-4dba-b404-1412639c3f3b" />
 
 ### Contributors
 - Jaylen Webb
