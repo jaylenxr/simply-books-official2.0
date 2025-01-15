@@ -1,6 +1,6 @@
 # Simply Books!
 
-With this app, users are able to view book collections and authors.
+With this app, users are able to view and change their personal book collections and authors. As this is user specific, book and author collections will differ. Any information added, created, or removed will only be seen by the user logged in. 
 
 - [View App](https://www.loom.com/share/11af9a81ae8a4b84bc4f0c963a16884e?sid=dbbf034f-f81b-4070-9504-ed1cd4517db2)
 ## App Feautures
