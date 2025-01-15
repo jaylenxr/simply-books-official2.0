@@ -14,5 +14,8 @@ With this app, users are able to view and change their personal book collections
 ## App Preview
 <img width="996" alt="Screenshot 2025-01-15 at 1 09 09 AM" src="https://github.com/user-attachments/assets/fbacebe2-ad86-4dba-b404-1412639c3f3b" />
 
+## App Walkthrough
+https://www.loom.com/share/11af9a81ae8a4b84bc4f0c963a16884e?sid=b8005b2c-76db-4b8e-aace-f7794a3d3f84
+
 ### Contributors
 - Jaylen Webb
